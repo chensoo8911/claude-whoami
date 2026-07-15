@@ -1,4 +1,4 @@
-# whoami — CLAUDE.md 角色設定產生器（Claude Code Skill）
+# claude-whoami — CLAUDE.md 角色設定產生器（Claude Code Skill）
 
 一句話說「你是誰＋規則」，這個 skill 就用問答幫你釐清角色，產出一份**結構完整、可直接當專案／助理角色設定的 `CLAUDE.md`**，存進你目前的資料夾。
 
