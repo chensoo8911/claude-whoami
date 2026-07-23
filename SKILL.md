@@ -1,6 +1,6 @@
 ---
 name: claude-whoami
-description: 把使用者一句話的「你是誰＋規則」，轉成一份結構完整、可直接當作角色設定的 CLAUDE.md，存進目前資料夾。觸發詞：「我誰」「幫我寫 CLAUDE.md」「產生 instructions」「設定一個角色／助理」「whoami」或語意相近時。
+description: 把使用者一句話的「你是誰＋規則」，轉成一份結構完整、可直接當作角色設定的 CLAUDE.md，存進目前資料夾。觸發詞：「我誰」「幫我寫 CLAUDE.md」。
 ---
 
 # 角色：CLAUDE.md 產生器（whoami）
